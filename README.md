@@ -5,17 +5,12 @@ I'm particularly drawn to probabilistic systems — environments where uncertain
 
 📊 Current Focus Areas:
 
-Financial Markets & Quantitative Research
-
-Probabilistic Modeling & Statistical Inference
-
-Data Science & Analytics
-
-Applied Game Theory (including poker strategy analysis)
-
-Data Visualization (Tableau, Matplotlib, Seaborn)
-
-Python Development (Pandas, NumPy, Scikit-learn, Statsmodels)
+- Financial Markets & Quantitative Research
+- Probabilistic Modeling & Statistical Inference
+- Data Science & Analytics
+- Applied Game Theory (including poker strategy analysis)
+- Data Visualization (Tableau, Matplotlib, Seaborn)
+- Python Development (Pandas, NumPy, Scikit-learn, Statsmodels)
 
 🃏 Other Interests:
 Outside of financial data, I enjoy studying poker strategy for its strong overlap with probability, risk management, and decision-making under uncertainty — much like trading and investing.
@@ -25,9 +20,9 @@ Currently completing my undergraduate degree in Mathematics, specializing in Pro
 
 📈 Selected Projects:
 
-Project StArb: Statistical arbitrage research platform that identifies potentially cointegrated stock pairs, generates trading signals, and evaluates performance through custom backtesting models.
+- Statistical arbitrage research platform that identifies potentially cointegrated stock pairs, generates trading signals, and evaluates performance through custom backtesting models.
 
-Tableau and Python data visualization projects to analyze market data, performance metrics, and portfolio behavior.
+- Tableau and Python data visualization projects to analyze market data, performance metrics, and portfolio behavior.
 
 🚀 Next Goals:
 Further developing my skills in machine learning, algorithmic trading, and data-driven decision-making in probabilistic environments.
